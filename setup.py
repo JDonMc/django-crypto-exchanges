@@ -13,7 +13,7 @@ long_description = io.open('README.md', encoding='utf-8').read()
 
 setup(
     name='django-crypto-exchanges',
-    version='0.1.0.dev1',
+    version='0.1.0.dev2',
     author='Haldun Anil',
     author_email='haldunanil@gmail.com',
     license='MIT',
